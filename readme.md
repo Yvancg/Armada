@@ -23,10 +23,7 @@ This project provides a Python-based solution to convert scanned bank transactio
 
 ## Prerequisites
 
-- **Hardware:** MacBook Air M2
-- **Operating System:** macOS
 - **Software:**
-  - [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
   - [Python 3.8 or higher](https://www.python.org/downloads/)
   - [Git](https://git-scm.com/)
   - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
@@ -36,7 +33,7 @@ This project provides a Python-based solution to convert scanned bank transactio
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/pdf-to-excel-converter.git
+    git clone https://github.com/yvancg/pdf-to-excel-converter.git
     cd pdf-to-excel-converter
     ```
 
@@ -123,9 +120,9 @@ pdf-to-excel-converter/
 Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
+2. Create a new branch: `git checkout -b feature/yvancg`.
 3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
+4. Push to the branch: `git push origin feature/yvancg`.
 5. Open a pull request.
 
 ## License
@@ -137,5 +134,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 *Note: This project is designed to process a large number of PDF files with varying qualities. Ensure that Tesseract OCR is properly configured to handle low-quality scans effectively.*
 
 ---
-
-By ensuring proper indentation, especially within list items, the Markdown should render correctly across various platforms. If you continue to experience issues, please let me know, and I'll be happy to assist further.
