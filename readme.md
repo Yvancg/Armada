@@ -90,6 +90,7 @@ This project provides a Python-based solution to convert scanned bank transactio
 
 ## Project Structure
 
+```plaintext
 pdf-to-excel-converter/
 ├── app.py
 ├── requirements.txt
@@ -101,6 +102,7 @@ pdf-to-excel-converter/
 │   ├── pdf_processor.py
 │   └── ocr_utils.py
 └── output/
+```
 
 - `app.py`: Main application script.
 - `requirements.txt`: Lists required Python packages.
